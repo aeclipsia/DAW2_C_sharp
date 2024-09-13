@@ -11,5 +11,22 @@ namespace Hola_Mundo
         {
 
         }
+
+        private void FrmHola_Load(object sender, EventArgs e)
+        {
+            lblHola.Visible = false;
+        }
+
+        private void btnDale_Click(object sender, EventArgs e)
+        {
+            if (lblHola.Visible == false)
+            {
+                lblHola.Visible = true;
+            }
+            else
+            {
+                lblHola.Visible = false;
+            }
+        }
     }
 }

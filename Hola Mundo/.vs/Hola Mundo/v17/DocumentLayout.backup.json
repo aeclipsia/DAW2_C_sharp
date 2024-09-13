@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\C#\\Hola Mundo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23E26A25-0A21-49EB-9ED9-022574723E73}|Hola Mundo\\Hola Mundo.csproj|c:\\users\\admin\\desktop\\c#\\hola mundo\\hola mundo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{23E26A25-0A21-49EB-9ED9-022574723E73}|Hola Mundo\\Hola Mundo.csproj|c:\\users\\admin\\desktop\\c#\\hola mundo\\hola mundo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E26A25-0A21-49EB-9ED9-022574723E73}|Hola Mundo\\Hola Mundo.csproj|solutionrelative:hola mundo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E26A25-0A21-49EB-9ED9-022574723E73}|Hola Mundo\\Hola Mundo.csproj|C:\\Users\\admin\\Desktop\\C#\\Hola Mundo\\hola mundo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{23E26A25-0A21-49EB-9ED9-022574723E73}|Hola Mundo\\Hola Mundo.csproj|solutionrelative:hola mundo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E26A25-0A21-49EB-9ED9-022574723E73}|Hola Mundo\\Hola Mundo.csproj|c:\\users\\admin\\desktop\\c#\\hola mundo\\hola mundo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E26A25-0A21-49EB-9ED9-022574723E73}|Hola Mundo\\Hola Mundo.csproj|solutionrelative:hola mundo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\Hola Mundo\\Hola Mundo\\Program.cs",
+              "RelativeDocumentMoniker": "Hola Mundo\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Hola Mundo\\Hola Mundo\\Program.cs",
+              "RelativeToolTip": "Hola Mundo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:16:20.766Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
+              "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\Hola Mundo\\Hola Mundo\\Form1.cs",
               "RelativeDocumentMoniker": "Hola Mundo\\Form1.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Hola Mundo\\Hola Mundo\\Form1.cs [Design]",
-              "RelativeToolTip": "Hola Mundo\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Hola Mundo\\Hola Mundo\\Form1.cs",
+              "RelativeToolTip": "Hola Mundo\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAArwBoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:19:50.728Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\Hola Mundo\\Hola Mundo\\Form1.cs",
+              "RelativeDocumentMoniker": "Hola Mundo\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Hola Mundo\\Hola Mundo\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Hola Mundo\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T08:13:07.523Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\C#\EjemplosTiposDatos\EjemplosTiposDatos\EjemplosTiposDatos\bin\Debug\net8.0-windows\EjemplosTiposDatos.exe
+C:\Users\admin\Desktop\C#\EjemplosTiposDatos\EjemplosTiposDatos\EjemplosTiposDatos\bin\Debug\net8.0-windows\EjemplosTiposDatos.deps.json
+C:\Users\admin\Desktop\C#\EjemplosTiposDatos\EjemplosTiposDatos\EjemplosTiposDatos\bin\Debug\net8.0-windows\EjemplosTiposDatos.runtimeconfig.json
+C:\Users\admin\Desktop\C#\EjemplosTiposDatos\EjemplosTiposDatos\EjemplosTiposDatos\bin\Debug\net8.0-windows\EjemplosTiposDatos.dll
+C:\Users\admin\Desktop\C#\EjemplosTiposDatos\EjemplosTiposDatos\EjemplosTiposDatos\bin\Debug\net8.0-windows\EjemplosTiposDatos.pdb
+C:\Users\admin\Desktop\C#\EjemplosTiposDatos\EjemplosTiposDatos\EjemplosTiposDatos\obj\Debug\net8.0-windows\EjemplosTiposDatos.Form1.resources
+C:\Users\admin\Desktop\C#\EjemplosTiposDatos\EjemplosTiposDatos\EjemplosTiposDatos\obj\Debug\net8.0-windows\EjemplosTiposDatos.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\C#\EjemplosTiposDatos\EjemplosTiposDatos\EjemplosTiposDatos\obj\Debug\net8.0-windows\EjemplosTiposDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C#\EjemplosTiposDatos\EjemplosTiposDatos\EjemplosTiposDatos\obj\Debug\net8.0-windows\EjemplosTiposDatos.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C#\EjemplosTiposDatos\EjemplosTiposDatos\EjemplosTiposDatos\obj\Debug\net8.0-windows\EjemplosTiposDatos.AssemblyInfo.cs
+C:\Users\admin\Desktop\C#\EjemplosTiposDatos\EjemplosTiposDatos\EjemplosTiposDatos\obj\Debug\net8.0-windows\EjemplosTiposDatos.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\EjemplosTiposDatos\EjemplosTiposDatos\EjemplosTiposDatos\obj\Debug\net8.0-windows\EjemplosTiposDatos.sourcelink.json
+C:\Users\admin\Desktop\C#\EjemplosTiposDatos\EjemplosTiposDatos\EjemplosTiposDatos\obj\Debug\net8.0-windows\EjemplosTiposDatos.dll
+C:\Users\admin\Desktop\C#\EjemplosTiposDatos\EjemplosTiposDatos\EjemplosTiposDatos\obj\Debug\net8.0-windows\refint\EjemplosTiposDatos.dll
+C:\Users\admin\Desktop\C#\EjemplosTiposDatos\EjemplosTiposDatos\EjemplosTiposDatos\obj\Debug\net8.0-windows\EjemplosTiposDatos.pdb
+C:\Users\admin\Desktop\C#\EjemplosTiposDatos\EjemplosTiposDatos\EjemplosTiposDatos\obj\Debug\net8.0-windows\EjemplosTiposDatos.genruntimeconfig.cache
+C:\Users\admin\Desktop\C#\EjemplosTiposDatos\EjemplosTiposDatos\EjemplosTiposDatos\obj\Debug\net8.0-windows\ref\EjemplosTiposDatos.dll

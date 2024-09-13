@@ -29,27 +29,40 @@
         private void InitializeComponent()
         {
             lblHola = new Label();
+            btnDale = new Button();
             SuspendLayout();
             // 
             // lblHola
             // 
             lblHola.AutoSize = true;
-            lblHola.Location = new Point(94, 63);
+            lblHola.Location = new Point(84, 32);
             lblHola.Name = "lblHola";
             lblHola.Size = new Size(72, 17);
             lblHola.TabIndex = 0;
             lblHola.Text = "Hola Mundo";
             lblHola.Click += label1_Click;
             // 
+            // btnDale
+            // 
+            btnDale.Location = new Point(81, 83);
+            btnDale.Name = "btnDale";
+            btnDale.Size = new Size(75, 23);
+            btnDale.TabIndex = 1;
+            btnDale.Text = "¡dale!";
+            btnDale.UseVisualStyleBackColor = true;
+            btnDale.Click += btnDale_Click;
+            // 
             // FrmHola
             // 
             AutoScaleDimensions = new SizeF(7F, 17F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(242, 156);
+            Controls.Add(btnDale);
             Controls.Add(lblHola);
             Font = new Font("Comic Sans MS", 9F, FontStyle.Italic);
             Name = "FrmHola";
             Text = "Hola Mundo";
+            Load += FrmHola_Load;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -57,5 +70,6 @@
         #endregion
 
         private Label lblHola;
+        private Button btnDale;
     }
 }
