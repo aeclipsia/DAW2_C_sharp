@@ -1,0 +1,17 @@
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplo1\bin\Debug\net8.0-windows\Ejemplo1.exe
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplo1\bin\Debug\net8.0-windows\Ejemplo1.deps.json
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplo1\bin\Debug\net8.0-windows\Ejemplo1.runtimeconfig.json
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplo1\bin\Debug\net8.0-windows\Ejemplo1.dll
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplo1\bin\Debug\net8.0-windows\Ejemplo1.pdb
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplo1\obj\Debug\net8.0-windows\Ejemplo1.Frm1.resources
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplo1\obj\Debug\net8.0-windows\Ejemplo1.csproj.GenerateResource.cache
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplo1\obj\Debug\net8.0-windows\Ejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplo1\obj\Debug\net8.0-windows\Ejemplo1.AssemblyInfoInputs.cache
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplo1\obj\Debug\net8.0-windows\Ejemplo1.AssemblyInfo.cs
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplo1\obj\Debug\net8.0-windows\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplo1\obj\Debug\net8.0-windows\Ejemplo1.sourcelink.json
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplo1\obj\Debug\net8.0-windows\Ejemplo1.dll
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplo1\obj\Debug\net8.0-windows\refint\Ejemplo1.dll
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplo1\obj\Debug\net8.0-windows\Ejemplo1.pdb
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplo1\obj\Debug\net8.0-windows\Ejemplo1.genruntimeconfig.cache
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplo1\obj\Debug\net8.0-windows\ref\Ejemplo1.dll

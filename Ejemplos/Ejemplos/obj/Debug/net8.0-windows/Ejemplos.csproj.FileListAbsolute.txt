@@ -15,3 +15,20 @@ C:\Users\admin\Desktop\C#\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\refint\Ejem
 C:\Users\admin\Desktop\C#\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\Ejemplos.pdb
 C:\Users\admin\Desktop\C#\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\Ejemplos.genruntimeconfig.cache
 C:\Users\admin\Desktop\C#\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\ref\Ejemplos.dll
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplos\bin\Debug\net8.0-windows\Ejemplos.exe
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplos\bin\Debug\net8.0-windows\Ejemplos.deps.json
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplos\bin\Debug\net8.0-windows\Ejemplos.runtimeconfig.json
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplos\bin\Debug\net8.0-windows\Ejemplos.dll
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplos\bin\Debug\net8.0-windows\Ejemplos.pdb
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\Ejemplos.Form1.resources
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\Ejemplos.csproj.GenerateResource.cache
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\Ejemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\Ejemplos.AssemblyInfoInputs.cache
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\Ejemplos.AssemblyInfo.cs
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\Ejemplos.csproj.CoreCompileInputs.cache
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\Ejemplos.sourcelink.json
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\Ejemplos.dll
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\refint\Ejemplos.dll
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\Ejemplos.pdb
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\Ejemplos.genruntimeconfig.cache
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\ref\Ejemplos.dll

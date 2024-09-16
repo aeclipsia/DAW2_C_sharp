@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\C#\\Ejemplos\\",
+  "WorkspaceRootPath": "C:\\Users\\aeclipsia\\Desktop\\School Files\\Servidor\\Ejemplos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2997DD65-0E87-4316-B7C7-5534BCB6C18A}|Ejemplos\\Ejemplos.csproj|c:\\users\\admin\\desktop\\c#\\ejemplos\\ejemplos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2997DD65-0E87-4316-B7C7-5534BCB6C18A}|Ejemplos\\Ejemplos.csproj|solutionrelative:ejemplos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3A661960-0945-483E-B463-C2886A20B6DB}|Ejemplo1\\Ejemplo1.csproj|c:\\users\\aeclipsia\\desktop\\school files\\servidor\\ejemplos\\ejemplo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A661960-0945-483E-B463-C2886A20B6DB}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2997DD65-0E87-4316-B7C7-5534BCB6C18A}|Ejemplos\\Ejemplos.csproj|c:\\users\\admin\\desktop\\c#\\ejemplos\\ejemplos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2997DD65-0E87-4316-B7C7-5534BCB6C18A}|Ejemplos\\Ejemplos.csproj|solutionrelative:ejemplos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A661960-0945-483E-B463-C2886A20B6DB}|Ejemplo1\\Ejemplo1.csproj|c:\\users\\aeclipsia\\desktop\\school files\\servidor\\ejemplos\\ejemplo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A661960-0945-483E-B463-C2886A20B6DB}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\Ejemplos\\Ejemplos\\Form1.cs",
-              "RelativeDocumentMoniker": "Ejemplos\\Form1.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Ejemplos\\Ejemplos\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Ejemplos\\Form1.cs [Dise\u00F1o]",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\Servidor\\Ejemplos\\Ejemplo1\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejemplo1\\Form1.cs",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\Servidor\\Ejemplos\\Ejemplo1\\Form1.cs",
+              "RelativeToolTip": "Ejemplo1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T11:37:25.226Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-09-16T18:08:49.932Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\Ejemplos\\Ejemplos\\Form1.cs",
-              "RelativeDocumentMoniker": "Ejemplos\\Form1.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Ejemplos\\Ejemplos\\Form1.cs",
-              "RelativeToolTip": "Ejemplos\\Form1.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAWwAkAAAA9AAAAAAAAAA==",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\Servidor\\Ejemplos\\Ejemplo1\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejemplo1\\Form1.cs",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\Servidor\\Ejemplos\\Ejemplo1\\Form1.cs [Design]",
+              "RelativeToolTip": "Ejemplo1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T11:35:53.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T17:59:10.194Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

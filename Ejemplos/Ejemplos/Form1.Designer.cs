@@ -1,6 +1,6 @@
 ﻿namespace Ejemplos
 {
-    partial class Form1
+    partial class Frm1
     {
         /// <summary>
         ///  Required designer variable.
@@ -36,13 +36,13 @@
             lblY = new Label();
             lblX = new Label();
             grpColor = new GroupBox();
+            btnColor = new Button();
             txtB = new TextBox();
             txtG = new TextBox();
             txtR = new TextBox();
             lblBlue = new Label();
             lblGrn = new Label();
             lblRed = new Label();
-            btnColor = new Button();
             lblDisplay = new Label();
             grpDisplay = new GroupBox();
             ((System.ComponentModel.ISupportInitialize)fileSystemWatcher1).BeginInit();
@@ -63,18 +63,21 @@
             grpPos.Controls.Add(txtX);
             grpPos.Controls.Add(lblY);
             grpPos.Controls.Add(lblX);
-            grpPos.Location = new Point(15, 12);
+            grpPos.Location = new Point(17, 16);
+            grpPos.Margin = new Padding(3, 4, 3, 4);
             grpPos.Name = "grpPos";
-            grpPos.Size = new Size(150, 128);
+            grpPos.Padding = new Padding(3, 4, 3, 4);
+            grpPos.Size = new Size(171, 171);
             grpPos.TabIndex = 0;
             grpPos.TabStop = false;
             grpPos.Text = "Posición";
             // 
             // btnPos
             // 
-            btnPos.Location = new Point(14, 86);
+            btnPos.Location = new Point(16, 115);
+            btnPos.Margin = new Padding(3, 4, 3, 4);
             btnPos.Name = "btnPos";
-            btnPos.Size = new Size(123, 27);
+            btnPos.Size = new Size(141, 36);
             btnPos.TabIndex = 2;
             btnPos.Text = "Cambiar Posición";
             btnPos.UseVisualStyleBackColor = true;
@@ -82,33 +85,35 @@
             // 
             // txtY
             // 
-            txtY.Location = new Point(32, 57);
+            txtY.Location = new Point(37, 76);
+            txtY.Margin = new Padding(3, 4, 3, 4);
             txtY.Name = "txtY";
-            txtY.Size = new Size(100, 23);
+            txtY.Size = new Size(114, 27);
             txtY.TabIndex = 3;
             // 
             // txtX
             // 
-            txtX.Location = new Point(32, 26);
+            txtX.Location = new Point(37, 35);
+            txtX.Margin = new Padding(3, 4, 3, 4);
             txtX.Name = "txtX";
-            txtX.Size = new Size(100, 23);
+            txtX.Size = new Size(114, 27);
             txtX.TabIndex = 2;
             // 
             // lblY
             // 
             lblY.AutoSize = true;
-            lblY.Location = new Point(9, 60);
+            lblY.Location = new Point(10, 80);
             lblY.Name = "lblY";
-            lblY.Size = new Size(17, 15);
+            lblY.Size = new Size(20, 20);
             lblY.TabIndex = 1;
             lblY.Text = "Y:";
             // 
             // lblX
             // 
             lblX.AutoSize = true;
-            lblX.Location = new Point(9, 29);
+            lblX.Location = new Point(10, 39);
             lblX.Name = "lblX";
-            lblX.Size = new Size(17, 15);
+            lblX.Size = new Size(21, 20);
             lblX.TabIndex = 0;
             lblX.Text = "X:";
             // 
@@ -121,76 +126,86 @@
             grpColor.Controls.Add(lblBlue);
             grpColor.Controls.Add(lblGrn);
             grpColor.Controls.Add(lblRed);
-            grpColor.Location = new Point(179, 12);
+            grpColor.Location = new Point(205, 16);
+            grpColor.Margin = new Padding(3, 4, 3, 4);
             grpColor.Name = "grpColor";
-            grpColor.Size = new Size(200, 128);
+            grpColor.Padding = new Padding(3, 4, 3, 4);
+            grpColor.Size = new Size(229, 171);
             grpColor.TabIndex = 1;
             grpColor.TabStop = false;
             grpColor.Text = "Color";
             // 
+            // btnColor
+            // 
+            btnColor.Location = new Point(38, 115);
+            btnColor.Margin = new Padding(3, 4, 3, 4);
+            btnColor.Name = "btnColor";
+            btnColor.Size = new Size(154, 36);
+            btnColor.TabIndex = 6;
+            btnColor.Text = "Cambiar Color";
+            btnColor.UseVisualStyleBackColor = true;
+            btnColor.Click += btnColor_Click;
+            // 
             // txtB
             // 
-            txtB.Location = new Point(143, 52);
+            txtB.Location = new Point(163, 69);
+            txtB.Margin = new Padding(3, 4, 3, 4);
             txtB.Name = "txtB";
-            txtB.Size = new Size(51, 23);
+            txtB.Size = new Size(58, 27);
             txtB.TabIndex = 5;
+            txtB.TextChanged += txtB_TextChanged;
             // 
             // txtG
             // 
-            txtG.Location = new Point(78, 52);
+            txtG.Location = new Point(89, 69);
+            txtG.Margin = new Padding(3, 4, 3, 4);
             txtG.Name = "txtG";
-            txtG.Size = new Size(51, 23);
+            txtG.Size = new Size(58, 27);
             txtG.TabIndex = 4;
+            txtG.TextChanged += txtG_TextChanged;
             // 
             // txtR
             // 
-            txtR.Location = new Point(6, 52);
+            txtR.Location = new Point(7, 69);
+            txtR.Margin = new Padding(3, 4, 3, 4);
             txtR.Name = "txtR";
-            txtR.Size = new Size(51, 23);
+            txtR.Size = new Size(58, 27);
             txtR.TabIndex = 3;
+            txtR.TextChanged += txtR_TextChanged;
             // 
             // lblBlue
             // 
             lblBlue.AutoSize = true;
-            lblBlue.Location = new Point(143, 34);
+            lblBlue.Location = new Point(163, 45);
             lblBlue.Name = "lblBlue";
-            lblBlue.Size = new Size(33, 15);
+            lblBlue.Size = new Size(41, 20);
             lblBlue.TabIndex = 2;
             lblBlue.Text = "Blue:";
             // 
             // lblGrn
             // 
             lblGrn.AutoSize = true;
-            lblGrn.Location = new Point(78, 34);
+            lblGrn.Location = new Point(89, 45);
             lblGrn.Name = "lblGrn";
-            lblGrn.Size = new Size(41, 15);
+            lblGrn.Size = new Size(51, 20);
             lblGrn.TabIndex = 1;
             lblGrn.Text = "Green:";
             // 
             // lblRed
             // 
             lblRed.AutoSize = true;
-            lblRed.Location = new Point(6, 34);
+            lblRed.Location = new Point(7, 45);
             lblRed.Name = "lblRed";
-            lblRed.Size = new Size(30, 15);
+            lblRed.Size = new Size(38, 20);
             lblRed.TabIndex = 0;
             lblRed.Text = "Red:";
-            // 
-            // btnColor
-            // 
-            btnColor.Location = new Point(33, 86);
-            btnColor.Name = "btnColor";
-            btnColor.Size = new Size(135, 27);
-            btnColor.TabIndex = 6;
-            btnColor.Text = "Cambiar Color";
-            btnColor.UseVisualStyleBackColor = true;
             // 
             // lblDisplay
             // 
             lblDisplay.BorderStyle = BorderStyle.FixedSingle;
-            lblDisplay.Location = new Point(92, 102);
+            lblDisplay.Location = new Point(105, 136);
             lblDisplay.Name = "lblDisplay";
-            lblDisplay.Size = new Size(181, 78);
+            lblDisplay.Size = new Size(207, 103);
             lblDisplay.TabIndex = 2;
             lblDisplay.Text = "¡Hola Mundo!";
             lblDisplay.TextAlign = ContentAlignment.MiddleCenter;
@@ -198,22 +213,25 @@
             // grpDisplay
             // 
             grpDisplay.Controls.Add(lblDisplay);
-            grpDisplay.Location = new Point(15, 155);
+            grpDisplay.Location = new Point(17, 207);
+            grpDisplay.Margin = new Padding(3, 4, 3, 4);
             grpDisplay.Name = "grpDisplay";
-            grpDisplay.Size = new Size(364, 283);
+            grpDisplay.Padding = new Padding(3, 4, 3, 4);
+            grpDisplay.Size = new Size(416, 377);
             grpDisplay.TabIndex = 3;
             grpDisplay.TabStop = false;
             // 
-            // Form1
+            // Frm1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(394, 450);
+            ClientSize = new Size(450, 600);
             Controls.Add(grpDisplay);
             Controls.Add(grpColor);
             Controls.Add(grpPos);
-            Name = "Form1";
-            Text = "Form1";
+            Margin = new Padding(3, 4, 3, 4);
+            Name = "Frm1";
+            Text = "Ejemplo 2";
             ((System.ComponentModel.ISupportInitialize)fileSystemWatcher1).EndInit();
             grpPos.ResumeLayout(false);
             grpPos.PerformLayout();
