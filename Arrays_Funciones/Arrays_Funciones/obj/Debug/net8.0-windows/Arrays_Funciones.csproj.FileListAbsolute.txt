@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\C#\Arrays_Funciones\Arrays_Funciones\bin\Debug\net8.0-windows\Arrays_Funciones.exe
+C:\Users\admin\Desktop\C#\Arrays_Funciones\Arrays_Funciones\bin\Debug\net8.0-windows\Arrays_Funciones.deps.json
+C:\Users\admin\Desktop\C#\Arrays_Funciones\Arrays_Funciones\bin\Debug\net8.0-windows\Arrays_Funciones.runtimeconfig.json
+C:\Users\admin\Desktop\C#\Arrays_Funciones\Arrays_Funciones\bin\Debug\net8.0-windows\Arrays_Funciones.dll
+C:\Users\admin\Desktop\C#\Arrays_Funciones\Arrays_Funciones\bin\Debug\net8.0-windows\Arrays_Funciones.pdb
+C:\Users\admin\Desktop\C#\Arrays_Funciones\Arrays_Funciones\obj\Debug\net8.0-windows\Arrays_Funciones.Form1.resources
+C:\Users\admin\Desktop\C#\Arrays_Funciones\Arrays_Funciones\obj\Debug\net8.0-windows\Arrays_Funciones.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\C#\Arrays_Funciones\Arrays_Funciones\obj\Debug\net8.0-windows\Arrays_Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C#\Arrays_Funciones\Arrays_Funciones\obj\Debug\net8.0-windows\Arrays_Funciones.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C#\Arrays_Funciones\Arrays_Funciones\obj\Debug\net8.0-windows\Arrays_Funciones.AssemblyInfo.cs
+C:\Users\admin\Desktop\C#\Arrays_Funciones\Arrays_Funciones\obj\Debug\net8.0-windows\Arrays_Funciones.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\Arrays_Funciones\Arrays_Funciones\obj\Debug\net8.0-windows\Arrays_Funciones.sourcelink.json
+C:\Users\admin\Desktop\C#\Arrays_Funciones\Arrays_Funciones\obj\Debug\net8.0-windows\Arrays_Funciones.dll
+C:\Users\admin\Desktop\C#\Arrays_Funciones\Arrays_Funciones\obj\Debug\net8.0-windows\refint\Arrays_Funciones.dll
+C:\Users\admin\Desktop\C#\Arrays_Funciones\Arrays_Funciones\obj\Debug\net8.0-windows\Arrays_Funciones.pdb
+C:\Users\admin\Desktop\C#\Arrays_Funciones\Arrays_Funciones\obj\Debug\net8.0-windows\Arrays_Funciones.genruntimeconfig.cache
+C:\Users\admin\Desktop\C#\Arrays_Funciones\Arrays_Funciones\obj\Debug\net8.0-windows\ref\Arrays_Funciones.dll
