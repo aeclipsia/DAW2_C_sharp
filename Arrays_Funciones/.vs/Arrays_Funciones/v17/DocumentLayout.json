@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{4275AFB3-4442-4073-B19E-87D4AACC9EC7}|Arrays_Funciones\\Arrays_Funciones.csproj|solutionrelative:arrays_funciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4275AFB3-4442-4073-B19E-87D4AACC9EC7}|Arrays_Funciones\\Arrays_Funciones.csproj|c:\\users\\admin\\desktop\\c#\\arrays_funciones\\arrays_funciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4275AFB3-4442-4073-B19E-87D4AACC9EC7}|Arrays_Funciones\\Arrays_Funciones.csproj|C:\\Users\\admin\\Desktop\\C#\\Arrays_Funciones\\arrays_funciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4275AFB3-4442-4073-B19E-87D4AACC9EC7}|Arrays_Funciones\\Arrays_Funciones.csproj|solutionrelative:arrays_funciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
+              "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\Arrays_Funciones\\Arrays_Funciones\\Form1.cs",
               "RelativeDocumentMoniker": "Arrays_Funciones\\Form1.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Arrays_Funciones\\Arrays_Funciones\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Arrays_Funciones\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Arrays_Funciones\\Arrays_Funciones\\Form1.cs [Design]",
+              "RelativeToolTip": "Arrays_Funciones\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T10:56:45.564Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Arrays_Funciones\\Form1.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Arrays_Funciones\\Arrays_Funciones\\Form1.cs",
               "RelativeToolTip": "Arrays_Funciones\\Form1.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAnwEcAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwC0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T10:10:48.597Z",
               "EditorCaption": ""
