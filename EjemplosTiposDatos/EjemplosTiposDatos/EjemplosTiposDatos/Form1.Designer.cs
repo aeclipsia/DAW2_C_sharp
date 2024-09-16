@@ -42,7 +42,6 @@
             // 
             // grpDatos
             // 
-            grpDatos.Controls.Add(lblResultado);
             grpDatos.Controls.Add(btnAceptar);
             grpDatos.Controls.Add(txtEdad);
             grpDatos.Controls.Add(lblEdad);
@@ -52,25 +51,25 @@
             grpDatos.Controls.Add(lblNombre);
             grpDatos.Location = new Point(12, 12);
             grpDatos.Name = "grpDatos";
-            grpDatos.Size = new Size(776, 170);
+            grpDatos.Size = new Size(170, 179);
             grpDatos.TabIndex = 0;
             grpDatos.TabStop = false;
             grpDatos.Text = "Tus Datos";
             // 
             // lblResultado
             // 
-            lblResultado.AutoSize = true;
-            lblResultado.Location = new Point(584, 51);
+            lblResultado.Location = new Point(12, 203);
             lblResultado.Name = "lblResultado";
-            lblResultado.Size = new Size(0, 15);
+            lblResultado.Size = new Size(170, 31);
             lblResultado.TabIndex = 7;
+            lblResultado.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // btnAceptar
             // 
-            btnAceptar.Font = new Font("Segoe UI", 32F);
-            btnAceptar.Location = new Point(198, 51);
+            btnAceptar.Font = new Font("Segoe UI", 12F);
+            btnAceptar.Location = new Point(37, 129);
             btnAceptar.Name = "btnAceptar";
-            btnAceptar.Size = new Size(353, 93);
+            btnAceptar.Size = new Size(98, 41);
             btnAceptar.TabIndex = 6;
             btnAceptar.Text = "Aceptar";
             btnAceptar.UseVisualStyleBackColor = true;
@@ -78,7 +77,7 @@
             // 
             // txtEdad
             // 
-            txtEdad.Location = new Point(63, 135);
+            txtEdad.Location = new Point(63, 100);
             txtEdad.Name = "txtEdad";
             txtEdad.Size = new Size(100, 23);
             txtEdad.TabIndex = 5;
@@ -86,7 +85,7 @@
             // lblEdad
             // 
             lblEdad.AutoSize = true;
-            lblEdad.Location = new Point(6, 138);
+            lblEdad.Location = new Point(6, 103);
             lblEdad.Name = "lblEdad";
             lblEdad.Size = new Size(33, 15);
             lblEdad.TabIndex = 4;
@@ -94,7 +93,7 @@
             // 
             // txtDni
             // 
-            txtDni.Location = new Point(63, 85);
+            txtDni.Location = new Point(63, 67);
             txtDni.Name = "txtDni";
             txtDni.Size = new Size(100, 23);
             txtDni.TabIndex = 3;
@@ -102,7 +101,7 @@
             // lblDni
             // 
             lblDni.AutoSize = true;
-            lblDni.Location = new Point(6, 88);
+            lblDni.Location = new Point(6, 70);
             lblDni.Name = "lblDni";
             lblDni.Size = new Size(27, 15);
             lblDni.TabIndex = 2;
@@ -128,7 +127,8 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 189);
+            ClientSize = new Size(194, 243);
+            Controls.Add(lblResultado);
             Controls.Add(grpDatos);
             Name = "Form1";
             Text = "Ejemplo tipos de datos";
