@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aeclipsia\\Desktop\\School Files\\Servidor\\Ejemplos\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\C#\\Ejemplos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D134BF93-E383-42EF-854B-8CB82FC44C1B}|Ejemplo3\\Ejemplo3.csproj|c:\\users\\aeclipsia\\desktop\\school files\\servidor\\ejemplos\\ejemplo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D134BF93-E383-42EF-854B-8CB82FC44C1B}|Ejemplo3\\Ejemplo3.csproj|c:\\users\\admin\\desktop\\c#\\ejemplos\\ejemplo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D134BF93-E383-42EF-854B-8CB82FC44C1B}|Ejemplo3\\Ejemplo3.csproj|solutionrelative:ejemplo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D134BF93-E383-42EF-854B-8CB82FC44C1B}|Ejemplo3\\Ejemplo3.csproj|c:\\users\\admin\\desktop\\c#\\ejemplos\\ejemplo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D134BF93-E383-42EF-854B-8CB82FC44C1B}|Ejemplo3\\Ejemplo3.csproj|solutionrelative:ejemplo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\Servidor\\Ejemplos\\Ejemplo3\\Form1.cs",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\Ejemplos\\Ejemplo3\\Form1.cs",
               "RelativeDocumentMoniker": "Ejemplo3\\Form1.cs",
-              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\Servidor\\Ejemplos\\Ejemplo3\\Form1.cs [Design]",
-              "RelativeToolTip": "Ejemplo3\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Ejemplos\\Ejemplo3\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejemplo3\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T18:13:45.557Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-17T11:44:01.024Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\Ejemplos\\Ejemplo3\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejemplo3\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Ejemplos\\Ejemplo3\\Form1.cs",
+              "RelativeToolTip": "Ejemplo3\\Form1.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwDcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:19:43.675Z",
+              "EditorCaption": ""
             }
           ]
         }

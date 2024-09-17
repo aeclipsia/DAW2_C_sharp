@@ -9,7 +9,15 @@ namespace Ejemplos
 
         private void btnPos_Click(object sender, EventArgs e)
         {
-            lblDisplay.Location = new Point(Convert.ToInt32(txtX.Text), Convert.ToInt32(txtY.Text));
+            int x = Convert.ToInt32(txtX.Text);
+            int y = Convert.ToInt32(txtY.Text);
+
+            if (x < 0 || y < 0 || x>grpDisplay.Height || y > grpDisplay.Width)
+            {
+                MessageBox.Show("Coordinadas invalidas");
+            }
+            else
+                lblDisplay.Location = new Point(x,y);
         }
 
         private void btnColor_Click(object sender, EventArgs e)
