@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\C#\\Ejemplos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D134BF93-E383-42EF-854B-8CB82FC44C1B}|Ejemplo3\\Ejemplo3.csproj|c:\\users\\admin\\desktop\\c#\\ejemplos\\ejemplo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D134BF93-E383-42EF-854B-8CB82FC44C1B}|Ejemplo3\\Ejemplo3.csproj|solutionrelative:ejemplo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74651628-ED5F-4828-8496-3E3194D87934}|Ejemplo5\\Ejemplo5.csproj|c:\\users\\admin\\desktop\\c#\\ejemplos\\ejemplo5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74651628-ED5F-4828-8496-3E3194D87934}|Ejemplo5\\Ejemplo5.csproj|solutionrelative:ejemplo5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D134BF93-E383-42EF-854B-8CB82FC44C1B}|Ejemplo3\\Ejemplo3.csproj|c:\\users\\admin\\desktop\\c#\\ejemplos\\ejemplo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D134BF93-E383-42EF-854B-8CB82FC44C1B}|Ejemplo3\\Ejemplo3.csproj|solutionrelative:ejemplo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{74651628-ED5F-4828-8496-3E3194D87934}|Ejemplo5\\Ejemplo5.csproj|c:\\users\\admin\\desktop\\c#\\ejemplos\\ejemplo5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74651628-ED5F-4828-8496-3E3194D87934}|Ejemplo5\\Ejemplo5.csproj|solutionrelative:ejemplo5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\Ejemplos\\Ejemplo3\\Form1.cs",
-              "RelativeDocumentMoniker": "Ejemplo3\\Form1.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Ejemplos\\Ejemplo3\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Ejemplo3\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T11:44:01.024Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\Ejemplos\\Ejemplo3\\Form1.cs",
-              "RelativeDocumentMoniker": "Ejemplo3\\Form1.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Ejemplos\\Ejemplo3\\Form1.cs",
-              "RelativeToolTip": "Ejemplo3\\Form1.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAgwDcAAAARAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\Ejemplos\\Ejemplo5\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejemplo5\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Ejemplos\\Ejemplo5\\Form1.cs",
+              "RelativeToolTip": "Ejemplo5\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T11:19:43.675Z",
+              "WhenOpened": "2024-09-17T12:23:38.942Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\Ejemplos\\Ejemplo5\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejemplo5\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Ejemplos\\Ejemplo5\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejemplo5\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:15:15.978Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
