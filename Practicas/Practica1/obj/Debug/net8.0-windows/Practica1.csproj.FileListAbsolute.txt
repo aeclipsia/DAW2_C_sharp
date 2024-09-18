@@ -15,3 +15,20 @@ C:\Users\admin\Desktop\C#\Practicas\Practica1\obj\Debug\net8.0-windows\refint\Pr
 C:\Users\admin\Desktop\C#\Practicas\Practica1\obj\Debug\net8.0-windows\Practica1.pdb
 C:\Users\admin\Desktop\C#\Practicas\Practica1\obj\Debug\net8.0-windows\Practica1.genruntimeconfig.cache
 C:\Users\admin\Desktop\C#\Practicas\Practica1\obj\Debug\net8.0-windows\ref\Practica1.dll
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica1\bin\Debug\net8.0-windows\Practica1.exe
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica1\bin\Debug\net8.0-windows\Practica1.deps.json
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica1\bin\Debug\net8.0-windows\Practica1.runtimeconfig.json
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica1\bin\Debug\net8.0-windows\Practica1.dll
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica1\bin\Debug\net8.0-windows\Practica1.pdb
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica1\obj\Debug\net8.0-windows\Practica1.frm1.resources
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica1\obj\Debug\net8.0-windows\Practica1.csproj.GenerateResource.cache
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica1\obj\Debug\net8.0-windows\Practica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica1\obj\Debug\net8.0-windows\Practica1.AssemblyInfoInputs.cache
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica1\obj\Debug\net8.0-windows\Practica1.AssemblyInfo.cs
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica1\obj\Debug\net8.0-windows\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica1\obj\Debug\net8.0-windows\Practica1.sourcelink.json
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica1\obj\Debug\net8.0-windows\Practica1.dll
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica1\obj\Debug\net8.0-windows\refint\Practica1.dll
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica1\obj\Debug\net8.0-windows\Practica1.pdb
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica1\obj\Debug\net8.0-windows\Practica1.genruntimeconfig.cache
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica1\obj\Debug\net8.0-windows\ref\Practica1.dll

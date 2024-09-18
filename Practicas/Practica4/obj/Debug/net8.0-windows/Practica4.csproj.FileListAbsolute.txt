@@ -1,0 +1,17 @@
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica4\bin\Debug\net8.0-windows\Practica4.exe
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica4\bin\Debug\net8.0-windows\Practica4.deps.json
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica4\bin\Debug\net8.0-windows\Practica4.runtimeconfig.json
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica4\bin\Debug\net8.0-windows\Practica4.dll
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica4\bin\Debug\net8.0-windows\Practica4.pdb
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica4\obj\Debug\net8.0-windows\Practica4.frm1.resources
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica4\obj\Debug\net8.0-windows\Practica4.csproj.GenerateResource.cache
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica4\obj\Debug\net8.0-windows\Practica4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica4\obj\Debug\net8.0-windows\Practica4.AssemblyInfoInputs.cache
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica4\obj\Debug\net8.0-windows\Practica4.AssemblyInfo.cs
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica4\obj\Debug\net8.0-windows\Practica4.csproj.CoreCompileInputs.cache
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica4\obj\Debug\net8.0-windows\Practica4.sourcelink.json
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica4\obj\Debug\net8.0-windows\Practica4.dll
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica4\obj\Debug\net8.0-windows\refint\Practica4.dll
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica4\obj\Debug\net8.0-windows\Practica4.pdb
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica4\obj\Debug\net8.0-windows\Practica4.genruntimeconfig.cache
+C:\Users\aeclipsia\Desktop\School Files\Servidor\Practicas\Practica4\obj\Debug\net8.0-windows\ref\Practica4.dll

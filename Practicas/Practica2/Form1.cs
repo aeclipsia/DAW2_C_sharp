@@ -9,10 +9,18 @@ namespace Practica2
 
         private void btnAceptar_Click(object sender, EventArgs e)
         {
-            if (Convert.ToInt32(txtW)+Convert.ToInt32(txtL)+Convert.ToInt32(txtT)!=5)
-            {
-                
+            int wins = Convert.ToInt32(txtW.Text);
+            int ties = Convert.ToInt32(txtT.Text);
+            int losses = Convert.ToInt32(txtL.Text);
+
+            if (wins + ties + losses == 5) {
+                MessageBox.Show("Tienes " + ((wins * 3) + (ties * 1) + (losses * 0)).ToString() + " puntos.");
             }
+            else
+            {
+                MessageBox.Show("mierda");
+            }
+
         }
     }
 }
