@@ -86,6 +86,7 @@
             btnPlus.TabIndex = 3;
             btnPlus.Text = "Incrementar";
             btnPlus.UseVisualStyleBackColor = true;
+            btnPlus.Click += btnPlus_Click;
             // 
             // radYear
             // 
@@ -94,7 +95,6 @@
             radYear.Name = "radYear";
             radYear.Size = new Size(52, 19);
             radYear.TabIndex = 2;
-            radYear.TabStop = true;
             radYear.Text = "Años";
             radYear.UseVisualStyleBackColor = true;
             // 
@@ -105,13 +105,13 @@
             radMos.Name = "radMos";
             radMos.Size = new Size(58, 19);
             radMos.TabIndex = 1;
-            radMos.TabStop = true;
             radMos.Text = "Meses";
             radMos.UseVisualStyleBackColor = true;
             // 
             // radDay
             // 
             radDay.AutoSize = true;
+            radDay.Checked = true;
             radDay.Location = new Point(6, 16);
             radDay.Name = "radDay";
             radDay.Size = new Size(47, 19);

@@ -22,7 +22,22 @@ namespace Ejemplos
 
         private void btnColor_Click(object sender, EventArgs e)
         {
-            
+
+            if (String.IsNullOrEmpty(txtR.Text))
+            {
+                txtR.Text = "255";
+            }
+
+            if (String.IsNullOrEmpty(txtG.Text))
+            {
+                txtG.Text = "255";
+            }
+
+            if (String.IsNullOrEmpty(txtB.Text))
+            {
+                txtB.Text = "255";
+            }
+
             int r = Convert.ToInt32(txtR.Text);
             int g = Convert.ToInt32(txtG.Text);
             int b = Convert.ToInt32(txtB.Text);
