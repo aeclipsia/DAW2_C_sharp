@@ -1,13 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aeclipsia\\Desktop\\School Files\\Servidor\\Practicas\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\C#\\Practicas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E81E6C44-58A6-4E6F-B012-16A662C9C696}|Practica5\\Practica5.csproj|c:\\users\\aeclipsia\\desktop\\school files\\servidor\\practicas\\practica5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E81E6C44-58A6-4E6F-B012-16A662C9C696}|Practica5\\Practica5.csproj|solutionrelative:practica5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E81E6C44-58A6-4E6F-B012-16A662C9C696}|Practica5\\Practica5.csproj|c:\\users\\aeclipsia\\desktop\\school files\\servidor\\practicas\\practica5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E81E6C44-58A6-4E6F-B012-16A662C9C696}|Practica5\\Practica5.csproj|C:\\Users\\admin\\Desktop\\C#\\Practicas\\practica5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E81E6C44-58A6-4E6F-B012-16A662C9C696}|Practica5\\Practica5.csproj|solutionrelative:practica5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\Servidor\\Practicas\\Practica5\\Form1.cs",
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\Practicas\\Practica5\\Form1.cs",
               "RelativeDocumentMoniker": "Practica5\\Form1.cs",
-              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\Servidor\\Practicas\\Practica5\\Form1.cs",
-              "RelativeToolTip": "Practica5\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:11:53.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\Servidor\\Practicas\\Practica5\\Form1.cs",
-              "RelativeDocumentMoniker": "Practica5\\Form1.cs",
-              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\Servidor\\Practicas\\Practica5\\Form1.cs [Design]",
-              "RelativeToolTip": "Practica5\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Practicas\\Practica5\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica5\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T16:11:49.347Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

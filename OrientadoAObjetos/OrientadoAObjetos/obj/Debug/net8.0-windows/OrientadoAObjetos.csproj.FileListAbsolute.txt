@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\C#\OrientadoAObjetos\OrientadoAObjetos\bin\Debug\net8.0-windows\OrientadoAObjetos.exe
+C:\Users\admin\Desktop\C#\OrientadoAObjetos\OrientadoAObjetos\bin\Debug\net8.0-windows\OrientadoAObjetos.deps.json
+C:\Users\admin\Desktop\C#\OrientadoAObjetos\OrientadoAObjetos\bin\Debug\net8.0-windows\OrientadoAObjetos.runtimeconfig.json
+C:\Users\admin\Desktop\C#\OrientadoAObjetos\OrientadoAObjetos\bin\Debug\net8.0-windows\OrientadoAObjetos.dll
+C:\Users\admin\Desktop\C#\OrientadoAObjetos\OrientadoAObjetos\bin\Debug\net8.0-windows\OrientadoAObjetos.pdb
+C:\Users\admin\Desktop\C#\OrientadoAObjetos\OrientadoAObjetos\obj\Debug\net8.0-windows\OrientadoAObjetos.Form1.resources
+C:\Users\admin\Desktop\C#\OrientadoAObjetos\OrientadoAObjetos\obj\Debug\net8.0-windows\OrientadoAObjetos.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\C#\OrientadoAObjetos\OrientadoAObjetos\obj\Debug\net8.0-windows\OrientadoAObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C#\OrientadoAObjetos\OrientadoAObjetos\obj\Debug\net8.0-windows\OrientadoAObjetos.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C#\OrientadoAObjetos\OrientadoAObjetos\obj\Debug\net8.0-windows\OrientadoAObjetos.AssemblyInfo.cs
+C:\Users\admin\Desktop\C#\OrientadoAObjetos\OrientadoAObjetos\obj\Debug\net8.0-windows\OrientadoAObjetos.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\OrientadoAObjetos\OrientadoAObjetos\obj\Debug\net8.0-windows\OrientadoAObjetos.sourcelink.json
+C:\Users\admin\Desktop\C#\OrientadoAObjetos\OrientadoAObjetos\obj\Debug\net8.0-windows\OrientadoAObjetos.dll
+C:\Users\admin\Desktop\C#\OrientadoAObjetos\OrientadoAObjetos\obj\Debug\net8.0-windows\refint\OrientadoAObjetos.dll
+C:\Users\admin\Desktop\C#\OrientadoAObjetos\OrientadoAObjetos\obj\Debug\net8.0-windows\OrientadoAObjetos.pdb
+C:\Users\admin\Desktop\C#\OrientadoAObjetos\OrientadoAObjetos\obj\Debug\net8.0-windows\OrientadoAObjetos.genruntimeconfig.cache
+C:\Users\admin\Desktop\C#\OrientadoAObjetos\OrientadoAObjetos\obj\Debug\net8.0-windows\ref\OrientadoAObjetos.dll
