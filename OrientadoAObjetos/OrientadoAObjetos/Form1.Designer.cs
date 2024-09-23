@@ -29,6 +29,9 @@
         private void InitializeComponent()
         {
             grpDatos = new GroupBox();
+            chkErasmus = new CheckBox();
+            txtPais = new TextBox();
+            lblPais = new Label();
             txtTel = new TextBox();
             lblTel = new Label();
             txtNombre = new TextBox();
@@ -42,9 +45,6 @@
             btnBuscar = new Button();
             btnDel = new Button();
             btnEdit = new Button();
-            txtPais = new TextBox();
-            lblPais = new Label();
-            chkErasmus = new CheckBox();
             grpDatos.SuspendLayout();
             grpList.SuspendLayout();
             grpBtn.SuspendLayout();
@@ -67,6 +67,34 @@
             grpDatos.TabIndex = 0;
             grpDatos.TabStop = false;
             grpDatos.Text = "Datos Alumno";
+            // 
+            // chkErasmus
+            // 
+            chkErasmus.AutoSize = true;
+            chkErasmus.Location = new Point(267, 24);
+            chkErasmus.Name = "chkErasmus";
+            chkErasmus.Size = new Size(70, 19);
+            chkErasmus.TabIndex = 11;
+            chkErasmus.Text = "Erasmus";
+            chkErasmus.UseVisualStyleBackColor = true;
+            chkErasmus.CheckedChanged += chkErasmus_CheckedChanged;
+            // 
+            // txtPais
+            // 
+            txtPais.Enabled = false;
+            txtPais.Location = new Point(95, 105);
+            txtPais.Name = "txtPais";
+            txtPais.Size = new Size(126, 23);
+            txtPais.TabIndex = 9;
+            // 
+            // lblPais
+            // 
+            lblPais.AutoSize = true;
+            lblPais.Location = new Point(22, 108);
+            lblPais.Name = "lblPais";
+            lblPais.Size = new Size(28, 15);
+            lblPais.TabIndex = 10;
+            lblPais.Text = "Pais";
             // 
             // txtTel
             // 
@@ -186,33 +214,6 @@
             btnEdit.Text = "Editar";
             btnEdit.UseVisualStyleBackColor = true;
             btnEdit.Click += btnEdit_Click;
-            // 
-            // txtPais
-            // 
-            txtPais.Enabled = false;
-            txtPais.Location = new Point(95, 105);
-            txtPais.Name = "txtPais";
-            txtPais.Size = new Size(126, 23);
-            txtPais.TabIndex = 9;
-            // 
-            // lblPais
-            // 
-            lblPais.AutoSize = true;
-            lblPais.Location = new Point(22, 108);
-            lblPais.Name = "lblPais";
-            lblPais.Size = new Size(28, 15);
-            lblPais.TabIndex = 10;
-            lblPais.Text = "Pais";
-            // 
-            // chkErasmus
-            // 
-            chkErasmus.AutoSize = true;
-            chkErasmus.Location = new Point(267, 24);
-            chkErasmus.Name = "chkErasmus";
-            chkErasmus.Size = new Size(70, 19);
-            chkErasmus.TabIndex = 11;
-            chkErasmus.Text = "Erasmus";
-            chkErasmus.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 

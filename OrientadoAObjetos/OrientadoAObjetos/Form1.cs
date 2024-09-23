@@ -45,7 +45,8 @@ namespace OrientadoAObjetos
                         btnAdd.Enabled = false;
                     }
                 }
-                else {
+                else
+                {
                     try
                     {
                         listaClase[numAlumnos] = new Alumno(txtDNI.Text, txtNombre.Text, txtTel.Text);
@@ -100,6 +101,7 @@ namespace OrientadoAObjetos
             txtNombre.Enabled = false;
             txtDNI.Enabled = false;
             btnAdd.Enabled = false;
+            txtPais.Enabled = false;
 
             if (btnBuscar.Text == "Buscar")
             {
@@ -116,18 +118,26 @@ namespace OrientadoAObjetos
                         txtNombre.Text = a.Nombre;
                         txtTel.Text = a.Telefono;
                         btnBuscar.Text = "Cancelar";
+
+                        if (a.GetType().Name=="Erasmus")
+                        {
+                            Erasmus b = (Erasmus)a;
+                            txtPais.Text = b.Pais;
+                        }
                     }
                 }
                 else
                 {
-                    MessageBox.Show("Campo de DNI vacío","AVISO",MessageBoxButtons.OK,MessageBoxIcon.Question);
+                    MessageBox.Show("Campo de DNI vacío", "AVISO", MessageBoxButtons.OK, MessageBoxIcon.Question);
                 }
             }
-            else {
+            else
+            {
                 cleanCajas(grpDatos);
                 btnBuscar.Text = "Buscar";
                 txtNombre.Enabled = true;
                 txtDNI.Enabled = true;
+                txtPais.Enabled = true;
             }
         }
 
@@ -142,11 +152,17 @@ namespace OrientadoAObjetos
                         return a;
                     }
                 }
-                catch (System.NullReferenceException){
+                catch (System.NullReferenceException)
+                {
                     return null;
                 }
             }
             return null;
+        }
+
+        private void chkErasmus_CheckedChanged(object sender, EventArgs e)
+        {
+            txtPais.Enabled = chkErasmus.Checked;
         }
 
         //Añadir erasmus con textbox Pais
