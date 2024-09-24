@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\C#\\Practicas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{932194FC-2B3B-44F7-A0A0-4A7FA376491F}|Practica7\\Practica7.csproj|c:\\users\\admin\\desktop\\c#\\practicas\\practica7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932194FC-2B3B-44F7-A0A0-4A7FA376491F}|Practica7\\Practica7.csproj|solutionrelative:practica7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{932194FC-2B3B-44F7-A0A0-4A7FA376491F}|Practica7\\Practica7.csproj|c:\\users\\admin\\desktop\\c#\\practicas\\practica7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{932194FC-2B3B-44F7-A0A0-4A7FA376491F}|Practica7\\Practica7.csproj|solutionrelative:practica7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C293EBD4-2970-422D-A6B6-FBAB31051C56}|Practica6\\Practica6.csproj|c:\\users\\admin\\desktop\\c#\\practicas\\practica6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C293EBD4-2970-422D-A6B6-FBAB31051C56}|Practica6\\Practica6.csproj|solutionrelative:practica6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C293EBD4-2970-422D-A6B6-FBAB31051C56}|Practica6\\Practica6.csproj|c:\\users\\admin\\desktop\\c#\\practicas\\practica6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C293EBD4-2970-422D-A6B6-FBAB31051C56}|Practica6\\Practica6.csproj|solutionrelative:practica6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E81E6C44-58A6-4E6F-B012-16A662C9C696}|Practica5\\Practica5.csproj|C:\\Users\\admin\\Desktop\\C#\\Practicas\\practica5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E81E6C44-58A6-4E6F-B012-16A662C9C696}|Practica5\\Practica5.csproj|solutionrelative:practica5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,55 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\Practicas\\Practica7\\Form1.cs",
               "RelativeDocumentMoniker": "Practica7\\Form1.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Practicas\\Practica7\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Practica7\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T11:28:24.977Z",
+              "WhenOpened": "2024-09-24T09:07:37.928Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\Practicas\\Practica6\\Form1.cs",
-              "RelativeDocumentMoniker": "Practica6\\Form1.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Practicas\\Practica6\\Form1.cs",
-              "RelativeToolTip": "Practica6\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABRAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\Practicas\\Practica7\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica7\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Practicas\\Practica7\\Form1.cs",
+              "RelativeToolTip": "Practica7\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T11:19:17.384Z",
+              "WhenOpened": "2024-09-23T11:44:17.508Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\Practicas\\Practica6\\Form1.cs",
-              "RelativeDocumentMoniker": "Practica6\\Form1.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Practicas\\Practica6\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Practica6\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T10:48:32.861Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\Practicas\\Practica5\\Form1.cs",
-              "RelativeDocumentMoniker": "Practica5\\Form1.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Practicas\\Practica5\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Practica5\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:11:49.347Z"
             }
           ]
         }

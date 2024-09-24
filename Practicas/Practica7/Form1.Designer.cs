@@ -31,9 +31,9 @@
             txtFac1 = new TextBox();
             txtFac2 = new TextBox();
             radBtnSuma = new RadioButton();
-            radioButton2 = new RadioButton();
-            radioButton3 = new RadioButton();
-            radioButton4 = new RadioButton();
+            radBtnResta = new RadioButton();
+            radBtnProd = new RadioButton();
+            radBtnDiv = new RadioButton();
             txtRes = new TextBox();
             grpOp = new GroupBox();
             lblFac1 = new Label();
@@ -48,6 +48,7 @@
             txtFac1.Name = "txtFac1";
             txtFac1.Size = new Size(100, 23);
             txtFac1.TabIndex = 0;
+            txtFac1.TextChanged += txtFac1_TextChanged;
             // 
             // txtFac2
             // 
@@ -55,6 +56,7 @@
             txtFac2.Name = "txtFac2";
             txtFac2.Size = new Size(100, 23);
             txtFac2.TabIndex = 1;
+            txtFac2.TextChanged += txtFac2_TextChanged;
             // 
             // radBtnSuma
             // 
@@ -66,39 +68,43 @@
             radBtnSuma.TabStop = true;
             radBtnSuma.Text = "Suma";
             radBtnSuma.UseVisualStyleBackColor = true;
+            radBtnSuma.CheckedChanged += radBtnSuma_CheckedChanged;
             // 
-            // radioButton2
+            // radBtnResta
             // 
-            radioButton2.AutoSize = true;
-            radioButton2.Location = new Point(17, 47);
-            radioButton2.Name = "radioButton2";
-            radioButton2.Size = new Size(53, 19);
-            radioButton2.TabIndex = 3;
-            radioButton2.TabStop = true;
-            radioButton2.Text = "Resta";
-            radioButton2.UseVisualStyleBackColor = true;
+            radBtnResta.AutoSize = true;
+            radBtnResta.Location = new Point(17, 47);
+            radBtnResta.Name = "radBtnResta";
+            radBtnResta.Size = new Size(53, 19);
+            radBtnResta.TabIndex = 3;
+            radBtnResta.TabStop = true;
+            radBtnResta.Text = "Resta";
+            radBtnResta.UseVisualStyleBackColor = true;
+            radBtnResta.CheckedChanged += radBtnResta_CheckedChanged;
             // 
-            // radioButton3
+            // radBtnProd
             // 
-            radioButton3.AutoSize = true;
-            radioButton3.Location = new Point(17, 72);
-            radioButton3.Name = "radioButton3";
-            radioButton3.Size = new Size(74, 19);
-            radioButton3.TabIndex = 4;
-            radioButton3.TabStop = true;
-            radioButton3.Text = "Producto";
-            radioButton3.UseVisualStyleBackColor = true;
+            radBtnProd.AutoSize = true;
+            radBtnProd.Location = new Point(17, 72);
+            radBtnProd.Name = "radBtnProd";
+            radBtnProd.Size = new Size(74, 19);
+            radBtnProd.TabIndex = 4;
+            radBtnProd.TabStop = true;
+            radBtnProd.Text = "Producto";
+            radBtnProd.UseVisualStyleBackColor = true;
+            radBtnProd.CheckedChanged += radBtnProd_CheckedChanged;
             // 
-            // radioButton4
+            // radBtnDiv
             // 
-            radioButton4.AutoSize = true;
-            radioButton4.Location = new Point(17, 97);
-            radioButton4.Name = "radioButton4";
-            radioButton4.Size = new Size(67, 19);
-            radioButton4.TabIndex = 5;
-            radioButton4.TabStop = true;
-            radioButton4.Text = "División";
-            radioButton4.UseVisualStyleBackColor = true;
+            radBtnDiv.AutoSize = true;
+            radBtnDiv.Location = new Point(17, 97);
+            radBtnDiv.Name = "radBtnDiv";
+            radBtnDiv.Size = new Size(67, 19);
+            radBtnDiv.TabIndex = 5;
+            radBtnDiv.TabStop = true;
+            radBtnDiv.Text = "División";
+            radBtnDiv.UseVisualStyleBackColor = true;
+            radBtnDiv.CheckedChanged += radBtnDiv_CheckedChanged;
             // 
             // txtRes
             // 
@@ -110,9 +116,9 @@
             // grpOp
             // 
             grpOp.Controls.Add(radBtnSuma);
-            grpOp.Controls.Add(radioButton2);
-            grpOp.Controls.Add(radioButton4);
-            grpOp.Controls.Add(radioButton3);
+            grpOp.Controls.Add(radBtnResta);
+            grpOp.Controls.Add(radBtnDiv);
+            grpOp.Controls.Add(radBtnProd);
             grpOp.Location = new Point(143, 19);
             grpOp.Name = "grpOp";
             grpOp.Size = new Size(200, 142);
@@ -172,9 +178,9 @@
         private TextBox txtFac1;
         private TextBox txtFac2;
         private RadioButton radBtnSuma;
-        private RadioButton radioButton2;
-        private RadioButton radioButton3;
-        private RadioButton radioButton4;
+        private RadioButton radBtnResta;
+        private RadioButton radBtnProd;
+        private RadioButton radBtnDiv;
         private TextBox txtRes;
         private GroupBox grpOp;
         private Label lblFac1;
