@@ -110,6 +110,7 @@
             // 
             txtRes.Location = new Point(358, 79);
             txtRes.Name = "txtRes";
+            txtRes.ReadOnly = true;
             txtRes.Size = new Size(100, 23);
             txtRes.TabIndex = 6;
             // 
