@@ -11,11 +11,11 @@
       "RelativeMoniker": "D:0:0:{3104953C-32A5-47BE-BC16-2356069E1E94}|Practica3\\Quesos.csproj|solutionrelative:practica3\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3104953C-32A5-47BE-BC16-2356069E1E94}|Practica3\\Quesos.csproj|c:\\users\\admin\\desktop\\c#\\practica3\\practica3\\frmalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3104953C-32A5-47BE-BC16-2356069E1E94}|Practica3\\Quesos.csproj|C:\\Users\\admin\\Desktop\\C#\\Practica3\\practica3\\frmalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3104953C-32A5-47BE-BC16-2356069E1E94}|Practica3\\Quesos.csproj|solutionrelative:practica3\\frmalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3104953C-32A5-47BE-BC16-2356069E1E94}|Practica3\\Quesos.csproj|c:\\users\\admin\\desktop\\c#\\practica3\\practica3\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3104953C-32A5-47BE-BC16-2356069E1E94}|Practica3\\Quesos.csproj|C:\\Users\\admin\\Desktop\\C#\\Practica3\\practica3\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3104953C-32A5-47BE-BC16-2356069E1E94}|Practica3\\Quesos.csproj|solutionrelative:practica3\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -63,8 +63,7 @@
               "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Practica3\\Practica3\\frmAlta.cs [Dise\u00F1o]",
               "RelativeToolTip": "Practica3\\frmAlta.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:06:35.466Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-09-30T11:06:35.466Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Practica3\\Practica3\\frmMain.cs [Dise\u00F1o]",
               "RelativeToolTip": "Practica3\\frmMain.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:12:47.323Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-09-30T11:12:47.323Z"
             }
           ]
         }

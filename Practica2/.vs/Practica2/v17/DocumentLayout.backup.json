@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\C#\\Practica2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{238E0B1C-503E-426E-9081-756453590A99}|Practica2\\Ej1.csproj|c:\\users\\admin\\desktop\\c#\\practica2\\practica2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238E0B1C-503E-426E-9081-756453590A99}|Practica2\\Ej1.csproj|solutionrelative:practica2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238E0B1C-503E-426E-9081-756453590A99}|Practica2\\Practica2.csproj|c:\\users\\admin\\desktop\\c#\\practica2\\practica2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{238E0B1C-503E-426E-9081-756453590A99}|Practica2\\Practica2.csproj|solutionrelative:practica2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238E0B1C-503E-426E-9081-756453590A99}|Practica2\\Ej1.csproj|c:\\users\\admin\\desktop\\c#\\practica2\\practica2\\modules\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238E0B1C-503E-426E-9081-756453590A99}|Practica2\\Ej1.csproj|solutionrelative:practica2\\modules\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\Practica2\\Practica2\\Modules\\Persona.cs",
+              "RelativeDocumentMoniker": "Practica2\\Modules\\Persona.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Practica2\\Practica2\\Modules\\Persona.cs",
+              "RelativeToolTip": "Practica2\\Modules\\Persona.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAWwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:51:53.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\Practica2\\Practica2\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica2\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Practica2\\Practica2\\Form1.cs",
+              "RelativeToolTip": "Practica2\\Form1.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAwGoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:16:06.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\Practica2\\Practica2\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica2\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\Practica2\\Practica2\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica2\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:06:11.241Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
